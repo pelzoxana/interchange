@@ -7,9 +7,10 @@ Designed with **Tailwind CSS** and **SwiperJS**, the page is fully adaptive and 
 
 ---
 
-## 📸 Live Preview
+## 🌐 Live Demo
 
-🖥️ You can open the site by launching `index.html` locally or deploying it via GitHub Pages or Vercel.
+👉 [View the site](https://pelzoxana.github.io/interchange/)  
+Deployed via **GitHub Pages**
 
 ---
 
